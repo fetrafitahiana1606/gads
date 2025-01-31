@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hp-ads-keyword-planner-449312",
+  "private_key_id": "78f9d5df5596d342d85e0fb8e05dfebc9552fa91",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC961xFZWoOWmsu\n3lQsVRCg4TUgNlcMfYG63AOTaL+OJGDNcqTgOiDkEUVBJ5SRsChKdl2/Cf7+IPEH\nEth9NCHkVY8X/Hu7gL9X/llMXAbpqm6wIOJV//m+HdfmTDv1cVD97vKA+hkhbAen\nr+PjmBcSrfQ/tPDGrVPGBQqp3abiVhRJsGx2jNDsC0Yi4C2WPT+N9qd5az7JqUh4\nPPjN6ztOMkS3tdolCMj/1Y7n4I8Im9bFQhGEyVAFUyoowcuyFDtitK2NIXKfgWBk\nRTCmIy3afxtgN3J71vemoQ6IESGik3cmWmxIJdN+wkviqLm4IuC4zw3Pk3hUziLC\ngd0nW24HAgMBAAECggEAQnV5kQk3jzVB26FOeEL+MiYM1qxdUtAalR6Hm85kdeOy\nAkLTgmmk99o5T17/5Oltd/0quf7P/fLeFVkZa9rR31q3W6/tRoR7sNmfOxLbEmqj\nGDwxp+GO7eH4mqzjsHSKYIn8z3h1UdZBaYMp7otay50W4zI4rXWa4qkB/cZEL2BQ\nmcWRUdfhYDnG+ezjoL2Y2mUPTor29Ep4W9MgG7HH8mkUtaDfDZF7m2niXtekGKbW\nYbY6qs8Z2rRMSCSFUG/6FVlZU2OS2O2V27EqEYdko/hYTT4PfmU9MpXFOYppA0dD\nE8Q69AkAzWhbGX6FdzXMTOsA5TI6uNbasHwYBogPTQKBgQDgcMMCYZBqdVlv/oP/\nedViMKRDdKwUDuUcGmfswT95oM/0AnLHlZ5qnid4F+DGNXHGGkPE1+ZZurt3PBoa\n04nqIGnTolYiqCSWzxlcv5obnS/qc9IaoSXPCLjwRY15OV+kD0J2tV3rl4ebKxFo\nJJlnIQUYrLTzvj0GiIr33+ve1QKBgQDYn+8uwj14h4EGeWvirXC3N1BUNJZLcGPX\n0R7wesf3/i3u01PuhxUHHkS+Urspkwp2jhYWrk6L4/6Rq9/ctKptPX+usUeKHk3n\ngy05yqVVVaChlnHNv+1E0Neu6Ie533ZzaKI9jwfb3YE4x/W43ixsKWoJ2hqL2rQC\nmUByVGOfawKBgFH/AE+zYzZxju5KluDUGvAXgzuduWxOkMd2ojct1snRxYeJCXP/\nJnQfOZ43Ywgm6F0OpWmZ0u8/OFP0YjkgxYcCtob6DOv2b/+kw8hNu7iQ8bt++uh9\nrTl5H0+wqWH7YwSmCosh8aErqAA5eM+KZ3z05E7Ccg2Gl/b2FYc/iIXNAoGBAIh0\nvtNCkjxRh0pPxFEHFkCjfFt+wMoGoy440feEMGEcYUzXHEDeILXaME1/idyXfnjN\n6kYhSONAHIUgsqSxvcWQftTJYZo0mrhiXmPQLjPB+6yuO0PzSYAW2jaYzZ6dkF0E\npWaHqdirAJKHC1eHxI3hzKUmGaDNhKU6amlalWK/AoGAB8jPf/0n4ahyoVOBqiMY\nla+AmNwWGCbuvslUYUnla5N2D/MVU58kRD+FCcS/hSYtg0UVo4qhGR+EvL9wQQx9\nuV1DMC5gpbiObaTL54nf2aeakBRyArC6PbvK+qJ4r2WEUJ9n1ShqUk2Mt8oAl5ou\nUpQFE/tj3m69SuzEsIrlugs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "hpadskeywordplanner@hp-ads-keyword-planner-449312.iam.gserviceaccount.com",
+  "client_id": "117843925648473117982",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hpadskeywordplanner%40hp-ads-keyword-planner-449312.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
